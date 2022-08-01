@@ -1,1 +1,1 @@
-https://github.com/hjxyzj/TVBO
+https://github.com/takagen99/TVBoxOSC
